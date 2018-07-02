@@ -10,5 +10,4 @@ PAUSE
 :: Switching to dedicated AMD GPU.
 setlocal enableextensions
 "%~dp0\ext\gpu-switch.exe" -d
-PAUSE
 shutdown.exe /s /t 00
